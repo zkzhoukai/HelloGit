@@ -1,10 +1,2 @@
-Infra for test:
-EC2 Name Query
-IP Query
-MK AWS Billing Report_Application and Environment
-MK AWS Billing Report_EComm_EC2
-MK AWS EC2 CPU Usage
-MK AWS NetFlow - Tops
-MK AWS NetFlow - Traffic
-Query on Internal DNS
-Query SG for EC2
+Git is a distributed version control system.
+Git is free software.
