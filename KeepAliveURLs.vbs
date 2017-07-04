@@ -1749,13 +1749,15 @@ if len(FailedChecks) = 0 then
 else
 	CheckStatus = "BAD"
 end if
-'wscript.echo FailedChecks
+wscript.echo FailedChecks
+wscript.echo CheckStatus
+
 Set objHTTP = Nothing
-Dim oAPI, oBag
-Set oAPI = CreateObject("MOM.ScriptAPI")
-Set oBag = oAPI.CreatePropertyBag()
-Call oBag.AddValue("Status", CheckStatus)
-call OBag.AddValue("FailedChecks",FailedChecks)
-Call oAPI.Return(oBag)
-set OBag = nothing
-set OAPI = nothing
+'Dim oAPI, oBag
+'Set oAPI = CreateObject("MOM.ScriptAPI")
+'Set oBag = oAPI.CreatePropertyBag()
+'Call oBag.AddValue("Status", CheckStatus)
+'call OBag.AddValue("FailedChecks",FailedChecks)
+'Call oAPI.Return(oBag)
+'set OBag = nothing
+'set OAPI = nothing
