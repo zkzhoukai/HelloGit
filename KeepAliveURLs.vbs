@@ -8,7 +8,7 @@ end if
 NetBiosName = objArgs(0)
 
 Dim intStatus, objHTTP
-dim siteArray(280)  'where the URLList will be stored
+dim siteArray(1680)  'where the URLList will be stored
 
 siteArray(0) = "http://whdcepiweb21/WCF/CN2/CRCServices/Services/BulkImportAdjustmentService.svc"
 siteArray(1) = "http://whdcepiweb21/WCF/AP1/CRCServices/ExternalINSS/ExternalINSSService.svc"
