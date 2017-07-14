@@ -1844,12 +1844,8 @@ siteArray(1830) = "http://WHDCEPOFF24/AEMServices/AEMService.svc"
 siteArray(1831) = "http://WHDCEPOFF24/AEMServices/AEMServiceReader.svc"
 siteArray(1832) = "http://WHDCEPOFF24/WCFCRM/APR/IntranetServices/BusinessFunctionService.svc"
 siteArray(1833) = "http://WHDCEPOFF24/WCFCRM/APR/IntranetServices/IntranetService.svc"
-siteArray(1834) = "http://WHDCEPOFF25/AEMServices/AEMService.svc"
-siteArray(1835) = "http://WHDCEPOFF25/AEMServices/AEMServiceReader.svc"
 siteArray(1836) = "http://WHDCEPOFF25/WCFCRM/APR/IntranetServices/BusinessFunctionService.svc"
 siteArray(1837) = "http://WHDCEPOFF25/WCFCRM/APR/IntranetServices/IntranetService.svc"
-siteArray(1838) = "http://WHDCEPOFF26/AEMServices/AEMService.svc"
-siteArray(1839) = "http://WHDCEPOFF26/AEMServices/AEMServiceReader.svc"
 siteArray(1840) = "http://WHDCEPOFF26/WCFCRM/APR/IntranetServices/BusinessFunctionService.svc"
 siteArray(1841) = "http://WHDCEPOFF26/WCFCRM/APR/IntranetServices/IntranetService.svc"
 siteArray(1842) = "http://wjdcepiweb64/WCF/CHN/ChinaFO/SalesInvoiceService/SalesInvoiceService.svc"
@@ -2636,8 +2632,6 @@ siteArray(2622) = "http://WJDCEPOFF03/WCFCRM/CHN/IntranetServices/BusinessFuncti
 siteArray(2623) = "http://WJDCEPOFF03/WCFCRM/CHN/IntranetServices/IntranetService.svc"
 siteArray(2624) = "http://WJDCEPOFF07/AEMServices/AEMService.svc"
 siteArray(2625) = "http://WJDCEPOFF07/AEMServices/AEMServiceReader.svc"
-siteArray(2626) = "http://WJDCEPOFF07/WCFCRM/CHN/IntranetServices/BusinessFunctionService.svc"
-siteArray(2627) = "http://WJDCEPOFF07/WCFCRM/CHN/IntranetServices/IntranetService.svc"
 
 
 '#################
